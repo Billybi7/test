@@ -1,1 +1,2 @@
+#Exclusion des fichiers en .log pour une exclusion d'un filchier on fait nomdufichier/ 
 *.log
